@@ -1,0 +1,4 @@
+iThis is a Practice file.
+git init 
+git status
+
